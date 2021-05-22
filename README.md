@@ -8,11 +8,9 @@
 
 ## Overview
 ### Description
-[Description of your app]
 - MemeIt is an application that displays different memes(GIFs) to users. Users are greeted with the "Meme of the Day" when opening the app. They will be able to upvote and downvote the meme. The user will then be taken to a feed of different memes where they will also be able to upvote/downvote  and save memes to their collection. 
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Social / Entertainment
 - **Mobile:** View only, Mobile first, and interactive website.
 - **Story:** Allows users to view trending memes(GIFs) and vote on which meme is the best.
@@ -85,8 +83,6 @@
 
 ## Wireframes
 ![](./image.png)
-
-<a href="https://www.figma.com/file/uMXsqUTxVufKDXK8w7G2ud/Untitled?node-id=0%3A1">Link!
 
 ### [BONUS] Digital Wireframes & Mockups
 
